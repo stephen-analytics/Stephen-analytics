@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 
 
-[![Stephens GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=stephen-analytics&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/stephen-analytics/github-readme-stats#gh-light-mode-only)
